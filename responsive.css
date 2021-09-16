@@ -1,0 +1,8 @@
+@media screen and (max-width: 856px) {
+    .sm1,.sm2{
+        margin-top: -10px;
+    }
+    .pimage{
+        margin-left: -26em;
+    }
+  }
